@@ -1,0 +1,13 @@
+pair_id,anon_id,pl_name,pl_rade,pl_bmasse,pl_insol,selected_threshold,label_habitable
+1,B01,TOI-756 c,1.0,12.87205048,0.26,pl_insol@0.25,1
+2,B02,GJ 1002 c,1.1,1.36,0.24,pl_insol@0.25,0
+3,B03,GJ 273 b,1.51,2.89,1.50,pl_insol@1.49,0
+4,B04,GJ 273 b,0.88,3.0,1.49,pl_insol@1.49,1
+5,B05,Kepler-102 b,0.51,0.05,1.09,pl_rade@0.50,1
+6,B06,Kepler-1308 b,0.496,0.0933,1.054,pl_rade@0.50,0
+7,B07,K2-68 b,1.61,3.12,0.41,pl_rade@1.60,0
+8,B08,Kepler-1073 c,1.59,3.33,1.358,pl_rade@1.60,1
+9,B09,Kepler-444 c,0.3218,0.1023,1.478,pl_bmasse@0.10,1
+10,B10,GJ 238 b,0.45,0.098,1.079,pl_bmasse@0.10,0
+11,B11,Kepler-895 b,0.22,3.01,1.2,pl_bmasse@3.00,0
+12,B12,Kepler-895 b,0.41,2.986,1.39,pl_bmasse@3.00,1
