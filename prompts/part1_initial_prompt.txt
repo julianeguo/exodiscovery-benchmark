@@ -9,7 +9,7 @@ The data includes the below columns:
 Evaluation criteria for a habitable exoplanet:
 (0.5 <= pl_rade <= 1.6 OR 0.1 <= pl_bmasse <= 3)
 AND
-0.25 <= pl_insol <= 1.1
+0.25 <= pl_insol <= 1.49
 
 Use the numeric values exactly as written in the table. Do not round, approximate, or reinterpret any value.
 Do NOT use any tools or code. Do not use external knowledge or prior information about exoplanets.
@@ -28,4 +28,3 @@ Do not add headers, group labels, extra commentary, or any other text.
 After the 5th entry, write exactly:
 END
 Do not write anything after END.
-
